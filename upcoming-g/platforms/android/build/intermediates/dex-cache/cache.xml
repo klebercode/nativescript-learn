@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-widgets-release_a95ffdff84e211e1a387850728b8834770053dfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/nativescript-optimized/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-nativescript-optimized_78646721461e42702f585fe872a2918eaec144ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.facebook.fresco-fresco-0.9.0_02ed22bd8f30df192184afdb0efc758d64e727d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.facebook.fresco-drawee-0.9.0_afd75209e081b3290777aa6983ae6559d933215d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-appcompat-v7-25.3.1_4e409353b417408313c89146a56e072a92591e8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/share/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/support-annotations-25.3.1_d36b866c27d50890d3f323011f8cd39b4488b5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.facebook.fresco-imagepipeline-base-0.9.0_68dbee75c9d294dd4a549b9f33cea5b8ef36297b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-fragment-25.3.1_b4215c51d8a922f3ab734eba4b7df16d4e3bb3e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-recyclerview-v7-25.3.1_beb4d94138edb949e5b4c71cb20e9286219ad27b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="912812cca1fdace3ef9ba9c0a7081db4155767d5">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Feedback-2017.1.1030-dev-release_f8c6016e6d40fad51deef81dd36a7dbcc16d9970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-utils-25.3.1_2937143e5c0a90b4b402cfc2cd991977aef11a03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/Data-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="31ecd0832f76d83defcff7f8b395008bf3b153bd">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Data-2017.1.1030-dev-release_339a53a0f48b08b65e083cdb712cf8305502fb60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-transition-25.3.1_09dcbbbf2b71e4b44d03485f24392666d56cc0e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67070b6d74d76c40032b857e9fcf25b196fd07f5">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Chart-2017.1.1030-dev-release_81df397ab0e114445a03be0ea7d960e432575f0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/Common-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23e24cb11d199bb64e56968563bb6ea219204cec">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Common-2017.1.1030-dev-release_d886d0b40d7f8f4b9c3fcdb19e47fed4873f64cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.facebook.fresco-imagepipeline-0.9.0_5a69c81d3b36ccd1ff575faf78d84f40ba34d86c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-ui-25.3.1_3a39c8f61684d26616ec5bbe76411b941755dbba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/Input-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a973d2e002f236d63e4b0b3bb95454b2ed4dc790">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Input-2017.1.1030-dev-release_6242e1bc3848c951b54a4a929354cf98204c5649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-v4-25.3.1_4c8429b9cbb02bae64766ca6b4285cd74c3516c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.facebook.fresco-fbcore-0.9.0_bc8f51b50f1dd95b1e0c2db578ff2b07718e3d7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/library-2.4.0_63d695c3d00c0647e42997ba2ca9e50668e92bac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-vector-drawable-25.3.1_d4a893ecec0a20b8868ba2795fa842deeaac50f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-compat-25.3.1_e509426cbd23c18bde96779fc48a25147621dd3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/List-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cd3872a778741ba6ef9d5452e122a54d16b0564f">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-List-2017.1.1030-dev-release_8f7558002e0b2a188016d66d44b1c687a6100c4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-design-25.3.1_0fcf96cc501c861ae1b12eb05f0d27f6465da24c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-animated-vector-drawable-25.3.1_ad83d2f000a2564c3602d3550a6671d8c15eb76c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/Gauges-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bb5e99e8a8b94d66179ccbf5f2fbe41ba084fbe9">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Gauges-2017.1.1030-dev-release_abb0b91c50f90ceeb4a310b363a3c61171fbba8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/Primitives-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9001cb8dbd0c0f46e73929f0b0667c00c2835880">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-Primitives-2017.1.1030-dev-release_60cfaf74f35605106489f4b8c1a8251dfcb5bdb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/bolts-android-1.1.4_fbef8cf1e065f4dd754baee771bf3b1208ec4f60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-media-compat-25.3.1_4b0f44989613542ab11bae54dc01c71b82688c24.jar" />
+    </item>
+
+</items>

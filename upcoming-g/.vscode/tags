@@ -1,0 +1,37 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+build-step-metadata-generator.py	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	1;"	kind:file	line:1
+conf_build_dir	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^conf_build_dir = env("CONFIGURATION_BUILD_DIR")$/;"	kind:variable	line:33
+deployment_target	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^deployment_target = env(env("DEPLOYMENT_TARGET_CLANG_ENV_NAME"))$/;"	kind:variable	line:36
+deployment_target_flag_name	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^deployment_target_flag_name = env("DEPLOYMENT_TARGET_CLANG_FLAG_NAME")$/;"	kind:variable	line:35
+docset_path	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^docset_path = os.path.join(os.path.expanduser("~"), "Library\/Developer\/Shared\/Documentation\/DocSets\/com.apple.adc.documentation.{}.docset".format(docset_platform))$/;"	kind:variable	line:56
+docset_platform	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^    docset_platform = "OSX"$/;"	kind:variable	line:51
+docset_platform	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^    docset_platform = "tvOS"$/;"	kind:variable	line:55
+docset_platform	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^    docset_platform = "watchOS"$/;"	kind:variable	line:53
+docset_platform	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^docset_platform = "iOS"$/;"	kind:variable	line:47
+effective_platofrm_name	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^effective_platofrm_name = env("EFFECTIVE_PLATFORM_NAME")$/;"	kind:variable	line:48
+env	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^def env(env_name):$/;"	kind:function	line:11
+env_or_empty	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^def env_or_empty(env_name):$/;"	kind:function	line:19
+env_or_none	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^def env_or_none(env_name):$/;"	kind:function	line:15
+framework_search_paths	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^framework_search_paths = env_or_empty("FRAMEWORK_SEARCH_PATHS")$/;"	kind:variable	line:40
+framework_search_paths_parsed	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^framework_search_paths_parsed = map_and_list((lambda s: "-F" + s), shlex.split(framework_search_paths))$/;"	kind:variable	line:41
+generate_metadata	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^def generate_metadata(arch):$/;"	kind:function	line:60
+header_search_paths	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^header_search_paths = env_or_empty("HEADER_SEARCH_PATHS")$/;"	kind:variable	line:38
+header_search_paths_parsed	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^header_search_paths_parsed = map_and_list((lambda s: "-I" + s), shlex.split(header_search_paths))$/;"	kind:variable	line:39
+map_and_list	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^def map_and_list(func, iterable):$/;"	kind:function	line:25
+os	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^import os$/;"	kind:namespace	line:3
+other_cflags	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^other_cflags = env_or_empty("OTHER_CFLAGS")$/;"	kind:variable	line:42
+other_cflags_parsed	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^other_cflags_parsed = shlex.split(other_cflags)$/;"	kind:variable	line:43
+preprocessor_defs	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^preprocessor_defs = env_or_empty("GCC_PREPROCESSOR_DEFINITIONS")$/;"	kind:variable	line:44
+preprocessor_defs_parsed	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^preprocessor_defs_parsed = map_and_list((lambda s: "-D" + s), shlex.split(preprocessor_defs, '\\''))$/;"	kind:variable	line:45
+sdk_root	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^sdk_root = env("SDKROOT")$/;"	kind:variable	line:34
+shlex	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^import shlex$/;"	kind:namespace	line:5
+std	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^std = env("GCC_C_LANGUAGE_STANDARD")$/;"	kind:variable	line:37
+subprocess	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^import subprocess$/;"	kind:namespace	line:4
+sys	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^import sys$/;"	kind:namespace	line:6
+typescript_output_folder	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^typescript_output_folder = env_or_none("TNS_TYPESCRIPT_DECLARATIONS_PATH")$/;"	kind:variable	line:46
+yaml_output_folder	../platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py	/^yaml_output_folder = env_or_none("TNS_DEBUG_METADATA_PATH")$/;"	kind:variable	line:57

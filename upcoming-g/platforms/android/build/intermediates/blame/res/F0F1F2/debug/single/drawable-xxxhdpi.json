@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxxhdpi/logo.png",
+        "source": "/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/src/main/res/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxxhdpi/icon.png",
+        "source": "/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/src/main/res/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxxhdpi/background.png",
+        "source": "/Users/klebersoares/Documents/Workspace/code/nativescript-learn/upcoming-g/platforms/android/src/main/res/drawable-xxxhdpi/background.png"
+    }
+]

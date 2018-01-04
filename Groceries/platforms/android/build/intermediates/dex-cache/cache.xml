@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_47fddc691a87b481ce1eeb8bf3d24ea4ba1ddbd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.1_adec1ff6dfb992bdfee5b60de5349da967f2c621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.1_a66b12fdfde4b36dc4e45ae987926c353c810dcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/share/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.1_d36b866c27d50890d3f323011f8cd39b4488b5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_fd38719f2bc44db55fd7223993b18af2ade0a5b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/exploded-aar/nativescript-optimized/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-nativescript-optimized_895ece97809d9568f1a0802fd42303a964bd2403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_68198af189962eac4ae9b66405a9b6e2536ace7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_f3d0d563a6b7ff57de4826ff13cc9793104646ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.1_13f6a37824988540166d33124b7b588c604a7a1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.1_7fc8a3990569d66e1205d3f25debd3f8ea1adc6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.1_302eaca7ef3d3163613a76af28c844cc119142f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_1434907f75f207196445a7f15875ef5dfd6107b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.1_4d8227e757b5f83b4fb39aaca1f75b077bd75f02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.1_d5b690379aeecb45021928cb1c8e00637749db86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/klebersoares/Documents/Workspace/code/nativescript-learn/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.1_fd80f7b73b711c424d31e22939bc27d5997a67b1.jar" />
+    </item>
+
+</items>
